@@ -47,3 +47,26 @@ console.log(marks>= 35);//grater than equal
 
 //less than equal =<
 
+var marks = 70;
+var result=marks >= 60? "Allow Him for Interview" : "Don't allow";
+console.log(result);
+
+var age =20;
+var res = age >= 21? true : false;
+console.log(res);
+
+console.log("Even or Odd");
+var myNumber = 7;
+//even - divide by 2 and reminder is 0;
+var result = myNumber%2==0 ? "Even" :"Odd";
+console.log(result);
+
+ var num1 = 10;
+ var num2 = 12;
+ var result = num1 > num2 ? num1: num2;
+ console.log(result);
+
+ function wordlength(){
+    var word 
+ }
+
